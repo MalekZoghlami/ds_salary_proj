@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  4 17:30:34 2020
-
-@author: malek
-"""
 import pandas as pd
 
 df= pd.read_csv('glassdor_jobs.csv')
