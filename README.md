@@ -53,8 +53,6 @@ I looked at the distributions of the data and the value counts for the various c
 
 ![download (2)](https://user-images.githubusercontent.com/45142146/98429741-d4b29500-20a8-11eb-881c-cc29ce0c5f0e.png)
 
-![download (1)](https://user-images.githubusercontent.com/45142146/98429752-e5fba180-20a8-11eb-8d79-554dc398273b.png)
-
 ## Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
 
@@ -75,3 +73,5 @@ The Random Forest model far outperformed the other approaches on the test and va
 
 ## Productionization
 In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
+
+![download (1)](https://user-images.githubusercontent.com/45142146/98429752-e5fba180-20a8-11eb-8d79-554dc398273b.png)
