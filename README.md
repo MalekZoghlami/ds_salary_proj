@@ -49,7 +49,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
-![alt text]
+![download](https://user-images.githubusercontent.com/45142146/98429648-43dbb980-20a8-11eb-842e-cb0afa8d51a7.png)
 
 ## Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
