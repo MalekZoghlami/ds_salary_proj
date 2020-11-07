@@ -50,6 +50,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
 
 ![download](https://user-images.githubusercontent.com/45142146/98429648-43dbb980-20a8-11eb-842e-cb0afa8d51a7.png)
+![download (2)](https://user-images.githubusercontent.com/45142146/98429741-d4b29500-20a8-11eb-881c-cc29ce0c5f0e.png)
+![download (1)](https://user-images.githubusercontent.com/45142146/98429752-e5fba180-20a8-11eb-8d79-554dc398273b.png)
 
 ## Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
