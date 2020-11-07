@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  4 13:07:15 2020
-
-@author: malek
-"""
-
 import glassdor_scrapor as gs
 import pandas as pd
 
