@@ -40,10 +40,10 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 * Made a new column for company state
 * Transformed founded date into age of company
 * Made columns for if different skills were listed in the job description:
-* Python
-* Excel
-* AWS
-* Spark
+  * Python
+  * Excel
+  * AWS
+  * Spark
 * Column for simplified job title and Seniority
 * Column for description length
 
